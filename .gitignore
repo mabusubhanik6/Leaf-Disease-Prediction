@@ -1,0 +1,7 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+dataset/
+split_dataset/
+test.images/

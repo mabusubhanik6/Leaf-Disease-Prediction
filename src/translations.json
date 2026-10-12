@@ -1,0 +1,65 @@
+{
+    "English": {
+        "title": "🌿 Leaf Disease Detection",
+        "description": "Upload a potato leaf image or take a photo to detect possible leaf disease.",
+        "upload": "📁 Upload Leaf Image",
+        "camera": "📷 Or Take a Leaf Photo",
+        "predict": "🔍 Predict Disease",
+        "selected_leaf": "🌱 Selected Leaf",
+        "prediction": "🧠 Prediction Result",
+        "disease": "Disease",
+        "confidence": "Confidence",
+        "explanation": "📖 Explanation",
+        "symptoms": "🔍 Symptoms",
+        "precautions": "🛡️ Precautions",
+        "health_tips": "🌱 Plant Health Tips"
+    },
+
+    "Telugu": {
+        "title": "🌿 ఆకు వ్యాధి గుర్తింపు",
+        "description": "బంగాళాదుంప ఆకు చిత్రాన్ని అప్‌లోడ్ చేయండి లేదా ఫోటో తీసి ఆకు వ్యాధిని గుర్తించండి.",
+        "upload": "📁 ఆకు చిత్రాన్ని అప్‌లోడ్ చేయండి",
+        "camera": "📷 ఆకు ఫోటో తీయండి",
+        "predict": "🔍 వ్యాధిని గుర్తించండి",
+        "selected_leaf": "🌱 ఎంచుకున్న ఆకు",
+        "prediction": "🧠 గుర్తింపు ఫలితం",
+        "disease": "వ్యాధి",
+        "confidence": "నమ్మక స్థాయి",
+        "explanation": "📖 వివరణ",
+        "symptoms": "🔍 లక్షణాలు",
+        "precautions": "🛡️ జాగ్రత్తలు",
+        "health_tips": "🌱 మొక్క ఆరోగ్య సూచనలు"
+    },
+
+    "Hindi": {
+        "title": "🌿 पत्ती रोग पहचान",
+        "description": "आलू की पत्ती की तस्वीर अपलोड करें या फोटो लें और संभावित रोग की पहचान करें।",
+        "upload": "📁 पत्ती की तस्वीर अपलोड करें",
+        "camera": "📷 पत्ती की फोटो लें",
+        "predict": "🔍 रोग की पहचान करें",
+        "selected_leaf": "🌱 चुनी गई पत्ती",
+        "prediction": "🧠 पहचान का परिणाम",
+        "disease": "रोग",
+        "confidence": "विश्वास स्तर",
+        "explanation": "📖 विवरण",
+        "symptoms": "🔍 लक्षण",
+        "precautions": "🛡️ सावधानियां",
+        "health_tips": "🌱 पौधे के स्वास्थ्य सुझाव"
+    },
+
+    "Kannada": {
+        "title": "🌿 ಎಲೆ ರೋಗ ಪತ್ತೆ",
+        "description": "ಆಲೂಗಡ್ಡೆ ಎಲೆಯ ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ ಅಥವಾ ಫೋಟೋ ತೆಗೆದು ಸಂಭವನೀಯ ರೋಗವನ್ನು ಪತ್ತೆಹಚ್ಚಿ.",
+        "upload": "📁 ಎಲೆಯ ಚಿತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+        "camera": "📷 ಎಲೆಯ ಫೋಟೋ ತೆಗೆದುಕೊಳ್ಳಿ",
+        "predict": "🔍 ರೋಗವನ್ನು ಪತ್ತೆಹಚ್ಚಿ",
+        "selected_leaf": "🌱 ಆಯ್ಕೆ ಮಾಡಿದ ಎಲೆ",
+        "prediction": "🧠 ಪತ್ತೆಯಾದ ಫಲಿತಾಂಶ",
+        "disease": "ರೋಗ",
+        "confidence": "ವಿಶ್ವಾಸ ಮಟ್ಟ",
+        "explanation": "📖 ವಿವರಣೆ",
+        "symptoms": "🔍 ಲಕ್ಷಣಗಳು",
+        "precautions": "🛡️ ಮುನ್ನೆಚ್ಚರಿಕೆಗಳು",
+        "health_tips": "🌱 ಸಸ್ಯ ಆರೋಗ್ಯ ಸಲಹೆಗಳು"
+    }
+}
